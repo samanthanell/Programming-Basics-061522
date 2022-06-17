@@ -1,0 +1,52 @@
+/*CSS reset settings here*/
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#silver {
+
+    background-color: silver;
+    padding: 20px;
+}
+
+#green {
+    height: 100px;
+    background-color: green;
+    margin: 0px;
+    display:block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#blue {
+    height: 280px;
+    width: 140px;
+    background-color: blue;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20px
+}
+
+#red {
+    height: 380px;
+    width: 620px;
+    display: inline-block;
+    padding: 10px;
+    background-color: red;
+}
+
+.yellow {
+    height: 180px;
+    width: 180px;
+    background-color: yellow;
+    display: inline-block;
+    margin: 5px;
+}
+
+#purple {
+    height: 120px;
+    margin-top: 20px;
+    width: 575px;
+    background-color: purple;
+}
